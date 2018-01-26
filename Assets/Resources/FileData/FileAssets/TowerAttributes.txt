@@ -1,0 +1,24 @@
+{
+	"Fire": {
+		"attackRange": "7.5",
+		"attackDamage": "70",
+		"attackSpeed": "0.5",
+		"splashArea": "3.0"
+	},
+	"Ice": {
+		"attackRange": "8.0",
+		"attackDamage": "70",
+		"attackSpeed": "1.5",
+		"slowRate": "40.0"
+	},
+	"Lightning": {
+		"attackRange": "10.0",
+		"attackDamage": "10",
+		"attackSpeed": "5.0"
+	},
+	"Wind": {
+		"attackRange": "6.5",
+		"attackDamage": "60",
+		"attackSpeed": "0.8"
+	}
+}

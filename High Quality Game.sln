@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "High Quality Game", "Assembly-CSharp-firstpass.csproj", "{36ED875D-5A43-936C-FA11-47B76C98A986}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "High Quality Game", "Assembly-CSharp.csproj", "{ED92E2C6-E9FA-B11B-8304-30F33231D599}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "High Quality Game", "Assembly-CSharp-Editor.csproj", "{CC4A1809-A3A2-B309-F07E-D5D8AC069761}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36ED875D-5A43-936C-FA11-47B76C98A986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36ED875D-5A43-936C-FA11-47B76C98A986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36ED875D-5A43-936C-FA11-47B76C98A986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36ED875D-5A43-936C-FA11-47B76C98A986}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED92E2C6-E9FA-B11B-8304-30F33231D599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED92E2C6-E9FA-B11B-8304-30F33231D599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED92E2C6-E9FA-B11B-8304-30F33231D599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED92E2C6-E9FA-B11B-8304-30F33231D599}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC4A1809-A3A2-B309-F07E-D5D8AC069761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC4A1809-A3A2-B309-F07E-D5D8AC069761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC4A1809-A3A2-B309-F07E-D5D8AC069761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC4A1809-A3A2-B309-F07E-D5D8AC069761}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

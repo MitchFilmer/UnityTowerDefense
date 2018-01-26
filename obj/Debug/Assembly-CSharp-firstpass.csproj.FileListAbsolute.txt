@@ -1,0 +1,108 @@
+F:\School\Game Engine Programming\High Quality Game\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+F:\School\Game Engine Programming\High Quality Game\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+F:\School\Game Engine Programming\High Quality Game\Temp\bin\Debug\nunit.framework.dll
+F:\School\Game Engine Programming\High Quality Game\Temp\bin\Debug\UnityEditor.dll
+F:\School\Game Engine Programming\High Quality Game\Temp\bin\Debug\UnityEngine.Analytics.dll
+F:\School\Game Engine Programming\High Quality Game\Temp\bin\Debug\UnityEngine.dll
+F:\School\Game Engine Programming\High Quality Game\Temp\bin\Debug\UnityEngine.HoloLens.dll
+F:\School\Game Engine Programming\High Quality Game\Temp\bin\Debug\UnityEngine.Networking.dll
+F:\School\Game Engine Programming\High Quality Game\Temp\bin\Debug\UnityEngine.TestRunner.dll
+F:\School\Game Engine Programming\High Quality Game\Temp\bin\Debug\UnityEngine.UI.dll
+F:\School\Game Engine Programming\High Quality Game\Temp\bin\Debug\UnityEngine.VR.dll
+F:\School\Game Engine Programming\High Quality Game\Temp\bin\Debug\Mono.Cecil.dll
+F:\School\Game Engine Programming\High Quality Game\Temp\bin\Debug\Unity.SerializationLogic.dll
+F:\School\Game Engine Programming\High Quality Game\Temp\bin\Debug\Unity.DataContract.dll
+F:\School\Game Engine Programming\High Quality Game\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+F:\School\Game Engine Programming\High Quality Game\Temp\bin\Debug\Unity.UNetWeaver.dll
+F:\School\Game Engine Programming\High Quality Game\Temp\bin\Debug\Unity.CecilTools.dll
+F:\School\Game Engine Programming\High Quality Game\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+F:\School\Game Engine Programming\High Quality Game\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+F:\School\Game Engine Programming\High Quality Game\Temp\bin\Debug\UnityEngine.xml
+F:\School\Game Engine Programming\High Quality Game\Temp\bin\Debug\UnityEditor.xml
+F:\School\Game Engine Programming\High Quality Game\Temp\bin\Debug\UnityEngine.UI.xml
+F:\School\Game Engine Programming\High Quality Game\Temp\bin\Debug\UnityEngine.Networking.xml
+F:\School\Game Engine Programming\High Quality Game\Temp\bin\Debug\UnityEngine.TestRunner.xml
+F:\School\Game Engine Programming\High Quality Game\Temp\bin\Debug\nunit.framework.xml
+F:\School\Game Engine Programming\High Quality Game\Temp\bin\Debug\UnityEngine.Analytics.xml
+F:\School\Game Engine Programming\High Quality Game\Temp\bin\Debug\UnityEngine.HoloLens.xml
+F:\School\Game Engine Programming\High Quality Game\Temp\bin\Debug\UnityEngine.VR.xml
+F:\School\Game Engine Programming\High Quality Game\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+F:\School\Game Engine Programming\High Quality Game\obj\Debug\Assembly-CSharp-firstpass.dll
+F:\School\Game Engine Programming\High Quality Game\obj\Debug\Assembly-CSharp-firstpass.pdb
+F:\School\Game Engine Programming\UnityTowerDefense\High Quality Game\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+F:\School\Game Engine Programming\UnityTowerDefense\High Quality Game\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+F:\School\Game Engine Programming\UnityTowerDefense\High Quality Game\Temp\bin\Debug\nunit.framework.dll
+F:\School\Game Engine Programming\UnityTowerDefense\High Quality Game\Temp\bin\Debug\UnityEditor.dll
+F:\School\Game Engine Programming\UnityTowerDefense\High Quality Game\Temp\bin\Debug\UnityEngine.Analytics.dll
+F:\School\Game Engine Programming\UnityTowerDefense\High Quality Game\Temp\bin\Debug\UnityEngine.dll
+F:\School\Game Engine Programming\UnityTowerDefense\High Quality Game\Temp\bin\Debug\UnityEngine.HoloLens.dll
+F:\School\Game Engine Programming\UnityTowerDefense\High Quality Game\Temp\bin\Debug\UnityEngine.Networking.dll
+F:\School\Game Engine Programming\UnityTowerDefense\High Quality Game\Temp\bin\Debug\UnityEngine.TestRunner.dll
+F:\School\Game Engine Programming\UnityTowerDefense\High Quality Game\Temp\bin\Debug\UnityEngine.UI.dll
+F:\School\Game Engine Programming\UnityTowerDefense\High Quality Game\Temp\bin\Debug\Unity.SerializationLogic.dll
+F:\School\Game Engine Programming\UnityTowerDefense\High Quality Game\Temp\bin\Debug\Unity.DataContract.dll
+F:\School\Game Engine Programming\UnityTowerDefense\High Quality Game\Temp\bin\Debug\Unity.UNetWeaver.dll
+F:\School\Game Engine Programming\UnityTowerDefense\High Quality Game\Temp\bin\Debug\Unity.CecilTools.dll
+F:\School\Game Engine Programming\UnityTowerDefense\High Quality Game\Temp\bin\Debug\UnityEngine.xml
+F:\School\Game Engine Programming\UnityTowerDefense\High Quality Game\Temp\bin\Debug\UnityEditor.xml
+F:\School\Game Engine Programming\UnityTowerDefense\High Quality Game\Temp\bin\Debug\UnityEngine.UI.xml
+F:\School\Game Engine Programming\UnityTowerDefense\High Quality Game\Temp\bin\Debug\UnityEngine.Networking.xml
+F:\School\Game Engine Programming\UnityTowerDefense\High Quality Game\Temp\bin\Debug\UnityEngine.TestRunner.xml
+F:\School\Game Engine Programming\UnityTowerDefense\High Quality Game\Temp\bin\Debug\nunit.framework.xml
+F:\School\Game Engine Programming\UnityTowerDefense\High Quality Game\Temp\bin\Debug\UnityEngine.HoloLens.xml
+F:\School\Game Engine Programming\UnityTowerDefense\High Quality Game\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+F:\School\Game Engine Programming\UnityTowerDefense\High Quality Game\obj\Debug\Assembly-CSharp-firstpass.dll
+F:\School\Game Engine Programming\UnityTowerDefense\High Quality Game\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Mitch Filmer\Desktop\High Quality Game\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Mitch Filmer\Desktop\High Quality Game\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Mitch Filmer\Desktop\High Quality Game\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Mitch Filmer\Desktop\High Quality Game\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Mitch Filmer\Desktop\High Quality Game\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Mitch Filmer\Desktop\High Quality Game\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Mitch Filmer\Desktop\High Quality Game\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\Mitch Filmer\Desktop\High Quality Game\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Mitch Filmer\Desktop\High Quality Game\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Mitch Filmer\Desktop\High Quality Game\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\Mitch Filmer\Desktop\High Quality Game\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\Mitch Filmer\Desktop\High Quality Game\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Mitch Filmer\Desktop\High Quality Game\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Mitch Filmer\Desktop\High Quality Game\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Mitch Filmer\Desktop\High Quality Game\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Users\Mitch Filmer\Desktop\High Quality Game\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\Mitch Filmer\Desktop\High Quality Game\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Mitch Filmer\Desktop\High Quality Game\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Mitch Filmer\Desktop\High Quality Game\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Mitch Filmer\Desktop\High Quality Game\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Mitch Filmer\Desktop\High Quality Game\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Mitch Filmer\Desktop\High Quality Game\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Mitch Filmer\Desktop\High Quality Game\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\Mitch Filmer\Desktop\High Quality Game\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\Mitch Filmer\Desktop\High Quality Game\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Mitch Filmer\Desktop\High Quality Game\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Mitch Filmer\Desktop\High Quality Game\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Mitch Filmer\Desktop\High Quality Game\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Mitch Filmer\Desktop\High Quality Game\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Mitch Filmer\Desktop\High Quality Game\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Mitch Filmer\Desktop\High Quality Game\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Mitch Filmer\Desktop\High Quality Game\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+C:\Users\Mitch Filmer\Desktop\High Quality Game\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\Mitch Filmer\Desktop\High Quality Game\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Mitch Filmer\Desktop\High Quality Game\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\Mitch Filmer\Desktop\High Quality Game\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\Mitch Filmer\Desktop\High Quality Game\obj\Debug\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
+C:\Users\Mitch Filmer\Desktop\High Quality Game\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Mitch Filmer\Desktop\High Quality Game\obj\Debug\Assembly-CSharp-firstpass.pdb
+F:\School\Game Engine Programming\UnityTowerDefense\High Quality Game\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+F:\School\Game Engine Programming\UnityTowerDefense\High Quality Game\Temp\bin\Debug\UnityEngine.Purchasing.dll
+F:\School\Game Engine Programming\UnityTowerDefense\High Quality Game\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+F:\School\Game Engine Programming\UnityTowerDefense\High Quality Game\Temp\bin\Debug\UnityEngine.Timeline.dll
+F:\School\Game Engine Programming\UnityTowerDefense\High Quality Game\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+F:\School\Game Engine Programming\UnityTowerDefense\High Quality Game\Temp\bin\Debug\Unity.Cecil.dll
+F:\School\Game Engine Programming\UnityTowerDefense\High Quality Game\Temp\bin\Debug\ExCSS.Unity.dll
+F:\School\Game Engine Programming\UnityTowerDefense\High Quality Game\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+F:\School\Game Engine Programming\UnityTowerDefense\High Quality Game\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+F:\School\Game Engine Programming\UnityTowerDefense\High Quality Game\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+F:\School\Game Engine Programming\UnityTowerDefense\High Quality Game\Temp\bin\Debug\UnityEngine.Timeline.xml
+F:\School\Game Engine Programming\UnityTowerDefense\High Quality Game\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+F:\School\Game Engine Programming\UnityTowerDefense\High Quality Game\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+F:\School\Game Engine Programming\UnityTowerDefense\High Quality Game\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
